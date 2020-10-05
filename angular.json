@@ -104,6 +104,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "ngTooltipDirective"
+    }
+  },
+  "defaultProject": "ngTooltipDirective",
+  "cli": {
+    "analytics": "f4081611-c333-484a-aed1-134622f72802"
+  }
 }
